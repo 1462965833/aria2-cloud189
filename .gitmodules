@@ -1,0 +1,6 @@
+[submodule "aria2.sh"]
+	path = aria2.sh
+	url = https://github.com/P3TERX/aria2.sh
+[submodule "cloud189"]
+	path = cloud189
+	url = https://github.com/Aruelius/cloud189
